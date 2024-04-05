@@ -35,6 +35,6 @@ class MessageUseCaseTest {
     }
 
     companion object {
-        const val NAME = "Muhammad Rafi"
+        const val NAME = "Grafee"
     }
 }
